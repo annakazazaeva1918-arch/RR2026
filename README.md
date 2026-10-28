@@ -33,3 +33,5 @@ shapiro.test(test_table$OD600_final) — проверка нормальност
 data:  test_table$OD600_final
 W = 0.98397, p-value = 0.7048
 ```
+
+<img width="1920" height="1080" alt="Снимок экрана (82)" src="https://github.com/user-attachments/assets/2a9eb03e-51b3-4ca2-8a3a-b164eafa9c6c" />
